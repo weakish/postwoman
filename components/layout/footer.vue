@@ -13,11 +13,11 @@
         </a>
         <a
           class="footer-link hide-on-small-screen"
-          href="https://www.netlify.com"
+          href="https://www.leancloud.cn/engine/"
           target="_blank"
           rel="noopener"
         >
-          Powered by Netlify
+          Powered by LeanEngine
         </a>
         <!-- <span v-if="version.hash">
           -
